@@ -1,0 +1,45 @@
+ /*.{
+  margin: auto;
+  padding: auto;
+}
+*/
+
+body{
+  background-color: #EAF6F7
+}
+
+
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3%;
+  opacity: 0.2;
+}
+
+h1, h3{
+  color: #66BFBF;
+}
+
+.ProfilePic{
+  padding: 5px;
+  height: 150px;
+  width: 120px;
+  border-radius: 50%;
+  float: left;
+}
+
+.PersonalData{
+  float: left;
+}
+
+.PersonalImg{
+  float: left;
+  padding-top: 30px;
+  padding-right: 30px;
+}
+
+.frmInput{
+  /*float: left;*/
+}
